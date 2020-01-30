@@ -18,6 +18,7 @@ public class Armstrong {
 			System.out.println("armstrong number"); 
 			else
 		        System.out.println("Not armstrong number"); 
+			 System.out.println("Not armstrong number"); 
 		   }
 		}
 
